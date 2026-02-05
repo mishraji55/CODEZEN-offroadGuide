@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mishraji55.github.io/CODEZEN-offroadGuide/)
+
 # Offroad Semantic Scene Segmentation - Research Website
 
 A modern, professional research-oriented website showcasing an AI perception system for off-road autonomous vehicles trained on synthetic desert environments using digital twins.
@@ -210,12 +213,13 @@ To improve this website:
 - Nischay  
 - shaurya  
 - yash 
-- Sahil  
-**Deployed Link**: [Add GitHub link]
+- Sahil
+   
+
+**Deployed Link**: [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mishraji55.github.io/CODEZEN-offroadGuide/)
+
 
 
 ---
 
 **Last Updated**: February 2026
-
-Made with ❤️ for the AI and Robotics Community
