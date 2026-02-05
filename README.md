@@ -86,97 +86,13 @@ Accent Colors:
 - Card-based component architecture
 - Max-width container (1200px)
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Any modern web browser (Chrome, Firefox, Safari, Edge)
-- No build tools or server required - pure HTML/CSS/JS
-
-### Installation
-
-1. **Clone or Download the Files**
-   ```bash
-   git clone <repository-url>
-   cd codezen
+eading</p>
    ```
 
-2. **Open in Browser**
-   - Double-click `index.html` in file explorer, OR
-   - Use a local server:
-     ```bash
-     # Using Python 3
-     python -m http.server 8000
-     
-     # Using Python 2
-     python -m SimpleHTTPServer 8000
-     
-     # Using Node.js
-     npx http-server
-     ```
-   - Visit `http://localhost:8000` in your browser
 
-## 📝 Customization Guide
 
-### Update Project Information
 
-**In `index.html`:**
 
-1. **Page Title & Meta**
-   ```html
-   <title>Your Project Title | AI Vision</title>
-   <meta name="description" content="Your description here">
-   ```
-
-2. **Hero Section**
-   ```html
-   <h1 class="hero-title">Your Headline</h1>
-   <p class="hero-subtitle">Your subheading</p>
-   ```
-
-3. **Statistics**
-   ```html
-   <div class="stat">
-       <span class="stat-value">XX%</span>
-       <span class="stat-label">Your Metric</span>
-   </div>
-   ```
-
-4. **Team Information**
-   - Footer section: Update team names, hackathon name, repository link
-   - Contact section: Update email and social media links
-
-5. **Content Sections**
-   - Each major section has a clear heading and description
-   - Use the card components for consistency
-
-### Styling Customization
-
-**In `styles.css`:**
-
-1. **Change Colors**
-   ```css
-   :root {
-       --tech-blue: #3A7DFF;      /* Change AI accent color */
-       --sand-beige: #E6D3A3;     /* Change primary color */
-       --vegetation-green: #2ECC71; /* Change accent color */
-   }
-   ```
-
-2. **Adjust Fonts**
-   ```css
-   --font-heading: 'Your Font', 'Inter', sans-serif;
-   --font-body: 'Your Font', 'Roboto', sans-serif;
-   ```
-
-3. **Modify Spacing**
-   ```css
-   --spacing-lg: 3rem;  /* Increase/decrease section spacing */
-   ```
-
-4. **Update Border Radius**
-   ```css
-   --radius-lg: 1.5rem; /* Rounder or sharper corners */
-   ```
 
 ### Add Real Content
 
@@ -219,54 +135,7 @@ Accent Colors:
 - Graceful degradation for older browsers
 - No dependencies - vanilla JavaScript only
 
-## 📊 Deployment
 
-### Deploy to GitHub Pages (Recommended for hackathons)
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/yourusername/your-repo.git
-git push -u origin main
-```
-
-Then enable GitHub Pages in repository settings.
-
-### Deploy to Netlify
-1. Connect GitHub repository
-2. Set build command: `(none - static site)`
-3. Set publish directory: `.` (root)
-4. Deploy!
-
-### Deploy to Vercel
-1. Import project from GitHub
-2. Vercel auto-detects it as static
-3. Click Deploy!
-
-### Self-Hosted
-Copy all files to your web server and ensure your domain points to the root directory.
-
-## 🎯 Target Audience Optimization
-
-### For AI Researchers & Engineers
-- Technical terminology and explanations
-- Performance metrics and benchmarks
-- Architecture details and loss curves
-- Dataset statistics and methodology
-
-### For Autonomous Vehicle Developers
-- Real-time performance metrics (22.2 FPS)
-- Integration examples and use cases
-- Scalability and deployment information
-- Multi-sensor fusion discussion
-
-### For Hackathon Judges & Recruiters
-- Clear problem statement and solution
-- Quantitative results and achievements
-- Team information and repository link
-- Professional design and presentation
-- Comprehensive documentation
 
 ## 🔒 Privacy & Security
 
@@ -321,13 +190,6 @@ Copy all files to your web server and ensure your domain points to the root dire
 | Edge    | 90+     | ✅ Full |
 | Mobile  | Latest  | ✅ Full |
 
-## 🎓 Learning Resources
-
-- **HTML5**: [MDN Web Docs](https://developer.mozilla.org/)
-- **CSS3**: [CSS-Tricks](https://css-tricks.com/)
-- **JavaScript**: [JavaScript.info](https://javascript.info/)
-- **Responsive Design**: [Web.dev](https://web.dev/)
-- **Accessibility**: [WCAG Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
 
 ## 🤝 Contributing
 
@@ -339,32 +201,18 @@ To improve this website:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👥 Team & Credits
 
 **Project**: Offroad Semantic Scene Segmentation Using Synthetic Desert Data
 
-**Team Members**: [Add your names]
-**Hackathon**: [Add hackathon name]
-**Repository**: [Add GitHub link]
-**Contact**: [Add email/contact info]
+**Team Members:**
+- Nischay  
+- shaurya  
+- yash 
+- Sahil  
+**Deployed Link**: [Add GitHub link]
 
-## 🔗 Quick Links
-
-- [GitHub Repository](#)
-- [Research Paper](#)
-- [Live Demo](#)
-- [Project Documentation](#)
-
-## 📞 Support
-
-For questions or issues:
-- Open an issue on GitHub
-- Contact team members via email
-- Check documentation for common questions
 
 ---
 
