@@ -89,31 +89,6 @@ Accent Colors:
 - Card-based component architecture
 - Max-width container (1200px)
 
-eading</p>
-   ```
-
-
-
-
-
-
-### Add Real Content
-
-1. **Images**
-   - Add segmentation results to the `.placeholder` divs
-   - Replace chart placeholders with actual Chart.js or D3.js visualizations
-   - Update the comparison images
-
-2. **Metrics**
-   - Update IoU percentages in the results section
-   - Modify per-class performance bars
-   - Update statistics in hero section
-
-3. **Dataset Information**
-   - Update class count and distribution
-   - Add actual class definitions
-   - Include dataset statistics
-
 ## 🔧 JavaScript Features
 
 ### Navigation
@@ -216,7 +191,7 @@ To improve this website:
 - Sahil
    
 
-**Deployed Link**: [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mishraji55.github.io/CODEZEN-offroadGuide/)
+**Deployed Link**: [Live Demo](https://mishraji55.github.io/CODEZEN-offroadGuide/)
 
 
 
