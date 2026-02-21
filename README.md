@@ -1,6 +1,12 @@
 ## 🌐 Live Demo
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mishraji55.github.io/CODEZEN-offroadGuide/)
 
+---
+title: Semantic Segmentation Demo
+sdk: streamlit
+app_file: app.py
+---
+
 # Offroad Semantic Scene Segmentation - Research Website
 
 A modern, professional research-oriented website showcasing an AI perception system for off-road autonomous vehicles trained on synthetic desert environments using digital twins.
